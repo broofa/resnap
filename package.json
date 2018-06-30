@@ -1,6 +1,6 @@
 {
   "name": "resnap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple API for capturing and resetting Node's require() cache state",
   "main": "index.js",
   "scripts": {
